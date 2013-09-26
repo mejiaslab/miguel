@@ -1,5 +1,5 @@
-Miguel Mejías
-24 años
-Ingeniería Informática
+<nombre>Miguel Mejías</nombre>
+<edad>24 años</edad>
+<carrera>Ingeniería Informática</carrera>
 
-Hola soy Miguel
+<presentacion>Hola soy Miguel</presentacion>
